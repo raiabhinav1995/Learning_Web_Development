@@ -1,5 +1,11 @@
-/* wall1
-{
-    height: 100%; 
-    max-width: 100%;
-} */
+.img_car {
+    max-height: 500px;
+    width: 100%;
+}
+
+body {
+    margin-top: 50px;
+}
+footer {
+    margin-top: 25px;
+}
